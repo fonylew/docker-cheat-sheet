@@ -29,21 +29,16 @@ Developers can get going quickly by starting with one of the 13,000+ apps availa
 
 Docker helps developers build and ship higher-quality applications, faster." -- [What is Docker](https://www.docker.com/what-docker#copy1)
 
-## Prerequisites
+[Slide: Introduction to Docker](http://slides.com/atbaker/docker-101)
+[Slide: Docker Basic Command](http://galaxy.slides.com/bgruening/the-galaxy-docker-project)
 
-I use [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) with the [Docker plugin](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#docker) for autocompletion of docker commands. YMMV.
-
-### Linux
-
-The 3.10.x kernel is [the minimum requirement](https://docs.docker.com/engine/installation/binaries/#check-kernel-dependencies) for Docker.
-
-### MacOS
-
- 10.8 “Mountain Lion” or newer is required.
 
 ## Installation
 
 ### Linux
+
+[P'Team blog post about Docker installation on Ubuntu](https://phakind.wordpress.com/2017/06/11/install-docker-on-ubuntu/)
+[Official guide](https://docs.docker.com/engine/installation/linux/ubuntu/#install-using-the-repository)
 
 Quick and easy install script provided by Docker:
 
