@@ -29,18 +29,18 @@ Developers can get going quickly by starting with one of the 13,000+ apps availa
 
 Docker helps developers build and ship higher-quality applications, faster." -- [What is Docker](https://www.docker.com/what-docker#copy1)
 
-** [Slide: Introduction to Docker](http://slides.com/atbaker/docker-101) **
+**[Slide: Introduction to Docker](http://slides.com/atbaker/docker-101)**
 
-** [Slide: Docker Basic Command](http://galaxy.slides.com/bgruening/the-galaxy-docker-project) **
+**[Slide: Docker Basic Command](http://galaxy.slides.com/bgruening/the-galaxy-docker-project)**
 
 
 ## Installation
 
 ### Linux
 
-** [P'Team blog post about Docker installation on Ubuntu](https://phakind.wordpress.com/2017/06/11/install-docker-on-ubuntu/) **
+**[P'Team blog post about Docker installation on Ubuntu](https://phakind.wordpress.com/2017/06/11/install-docker-on-ubuntu/)**
 
-** [Official guide](https://docs.docker.com/engine/installation/linux/ubuntu/#install-using-the-repository) **
+**[Official guide](https://docs.docker.com/engine/installation/linux/ubuntu/#install-using-the-repository)**
 
 Quick and easy install script provided by Docker:
 
