@@ -1,6 +1,9 @@
 # Docker Cheat Sheet
 
-**Want to improve this cheat sheet?  See the [Contributing](#contributing) section!**
+**[Slide: Introduction to Docker](http://slides.com/atbaker/docker-101#/2)**
+
+**[Slide: Docker Basic Command](http://galaxy.slides.com/bgruening/the-galaxy-docker-project#/3)**
+
 
 ## Table of Contents
 
@@ -28,10 +31,6 @@
 Developers can get going quickly by starting with one of the 13,000+ apps available on Docker Hub. Docker manages and tracks changes and dependencies, making it easier for sysadmins to understand how the apps that developers build work. And with Docker Hub, developers can automate their build pipeline and share artifacts with collaborators through public or private repositories.
 
 Docker helps developers build and ship higher-quality applications, faster." -- [What is Docker](https://www.docker.com/what-docker#copy1)
-
-**[Slide: Introduction to Docker](http://slides.com/atbaker/docker-101)**
-
-**[Slide: Docker Basic Command](http://galaxy.slides.com/bgruening/the-galaxy-docker-project)**
 
 
 ## Installation
