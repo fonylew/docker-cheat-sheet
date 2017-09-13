@@ -1,10 +1,10 @@
 # Docker Cheat Sheet
 
-![Docker](images/Docker-logo.png)
+![Docker](https://github.com/fonylew/docker-cheat-sheet/raw/master/images/Docker-logo.png)
 
 **[Slide: Introduction to Docker](http://slides.com/atbaker/docker-101#/2)**
 
-**[Slide: Docker Basic Command](http://galaxy.slides.com/bgruening/the-galaxy-docker-project#/3)**
+**[Slide: Docker Basic Command](http://galaxy.slides.com/bgruening/the-galaxy-docker-project#/4)**
 
 
 ## Table of Contents
@@ -28,10 +28,10 @@
 
 ## Why Docker
 #### VM - Virtual Machine.
-![VMs](images/vms.png)
+![VMs](https://github.com/fonylew/docker-cheat-sheet/raw/master/images/vms.png)
 
 #### Docker is container.
-![Containers](images/containers.png)
+![Containers](https://github.com/fonylew/docker-cheat-sheet/raw/master/images/containers.png)
 
 "With Docker, developers can build any app in any language using any toolchain. “Dockerized” apps are completely portable and can run anywhere - colleagues’ OS X and Windows laptops, QA servers running Ubuntu in the cloud, and production data center VMs running Red Hat.
 
