@@ -6,11 +6,9 @@
 **[Slide: Introduction to Docker](http://slides.com/atbaker/docker-101#/2)**
 
 
-
-## Table of Contents
+## Agenda
 
 * [Why Docker](#why-docker)
-* [Prerequisites](#prerequisites)
 * [Installation](#installation)
 * [Containers](#containers)
 * [Images](#images)
@@ -24,7 +22,7 @@
 * [Best Practices](#best-practices)
 * [Security](#security)
 * [Tips](#tips)
-* [Contributing](#contributing)
+* [Hand-on Docker container for Deep Learning](https://github.com/teamsoo/dl-docker)
 
 ## Why Docker
 #### VM - Virtual Machine.
@@ -48,15 +46,11 @@ Docker helps developers build and ship higher-quality applications, faster." -- 
 
 **[Official guide](https://docs.docker.com/engine/installation/linux/ubuntu/#install-using-the-repository)**
 
-Quick and easy install script provided by Docker:
+There's also a GUI program to manage Docker beautifully.
+![Kitematic Screenshot](https://cloud.githubusercontent.com/assets/251292/8246120/d3ab271a-15ed-11e5-8736-9a730a27c79a.png)
+Now, **[Kitematic](https://kitematic.com/)** is a part of Docker Toolbox. You can download Linux lastest release [here](https://github.com/docker/kitematic/releases).
 
-```
-curl -sSL https://get.docker.com/ | sh
-```
-
-If you're not willing to run a random shell script, please see the [installation](https://docs.docker.com/engine/installation/linux/) instructions for your distribution.
-
-If you are a complete Docker newbie, you should follow the [series of tutorials](https://docs.docker.com/engine/getstarted/) now.
+This is a useful official Docker tutorial. [series of tutorials](https://docs.docker.com/engine/getstarted/) now.
 
 ### Mac OS X
 
