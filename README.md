@@ -1,10 +1,10 @@
-# Docker Cheat Sheet
+# Introduction to Docker
 
-![Docker](https://github.com/fonylew/docker-cheat-sheet/raw/master/images/Docker-logo.png)
+
+![Docker](https://github.com/fonylew/docker-cheat-sheet/raw/master/images/docker.png)
 
 **[Slide: Introduction to Docker](http://slides.com/atbaker/docker-101#/2)**
 
-**[Slide: Docker Basic Command](http://galaxy.slides.com/bgruening/the-galaxy-docker-project#/4)**
 
 
 ## Table of Contents
@@ -83,6 +83,8 @@ docker run hello-world
 That's it, you have a running Docker container.
 
 If you are a complete Docker newbie, you should probably follow the [series of tutorials](https://docs.docker.com/engine/getstarted/) now.
+
+**[Slide: Docker Basic Command](http://galaxy.slides.com/bgruening/the-galaxy-docker-project#/4)**
 
 ## Containers
 
