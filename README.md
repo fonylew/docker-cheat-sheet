@@ -1,7 +1,7 @@
 # Introduction to Docker
 
 
-![Docker](https://github.com/fonylew/docker-cheat-sheet/raw/master/images/docker.png)
+![Docker](https://github.com/fonylew/docker-cheat-sheet/raw/master/images/docker-logo.png)
 
 **[Slide: Introduction to Docker](http://slides.com/atbaker/docker-101#/2)**
 
