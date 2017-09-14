@@ -10,19 +10,21 @@
 
 * [Why Docker](#why-docker)
 * [Installation](#installation)
-* [Containers](#containers)
-* [Images](#images)
-* [Networks](#networks)
-* [Registry and Repository](#registry--repository)
-* [Dockerfile](#dockerfile)
-* [Layers](#layers)
-* [Links](#links)
-* [Volumes](#volumes)
-* [Exposing Ports](#exposing-ports)
-* [Best Practices](#best-practices)
-* [Security](#security)
-* [Tips](#tips)
-* [Hand-on Docker container for Deep Learning](https://github.com/teamsoo/dl-docker)
+* Docker concepts
+  * [Containers](#containers)
+  * [Images](#images)
+  * [Networks](#networks)
+  * [Registry and Repository](#registry--repository)
+  * [Dockerfile](#dockerfile)
+  * [Layers](#layers)
+  * [Links](#links)
+  * [Volumes](#volumes)
+  * [Exposing Ports](#exposing-ports)
+* Further reading
+  * [Best Practices](#best-practices)
+  * [Security](#security)
+  * [Tips](#tips)
+* [Hands-on Docker container for Deep Learning](https://github.com/teamsoo/dl-docker)
 
 ## Why Docker
 #### VM - Virtual Machine.
@@ -45,6 +47,8 @@ Docker helps developers build and ship higher-quality applications, faster." -- 
 **[P'Team blog post about Docker installation on Ubuntu](https://phakind.wordpress.com/2017/06/11/install-docker-on-ubuntu/)**
 
 **[Official guide](https://docs.docker.com/engine/installation/linux/ubuntu/#install-using-the-repository)**
+
+**[NVIDIA docker](https://github.com/NVIDIA/nvidia-docker)** - *prerequisite: Nvidia driver and proper Docker installed*
 
 There's also a GUI program to manage Docker beautifully.
 ![Kitematic Screenshot](https://cloud.githubusercontent.com/assets/251292/8246120/d3ab271a-15ed-11e5-8736-9a730a27c79a.png)
