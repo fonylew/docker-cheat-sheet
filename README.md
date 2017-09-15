@@ -1,6 +1,5 @@
 # Introduction to Docker
-
-
+[dl-docker quick link](https://github.com/teamsoo/dl-docker#running-the-docker-image-as-a-container)
 ![Docker](https://github.com/fonylew/docker-cheat-sheet/raw/master/images/Docker-logo.png)
 
 **[Slide: Introduction to Docker](http://slides.com/atbaker/docker-101#/2)**
